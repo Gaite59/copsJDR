@@ -1,0 +1,21 @@
+{
+    "Actor":{
+        "types":["Joueur","PNJ"],
+        "caracteristiques":{
+            "Carrure":1,
+            "Charme":1,
+            "Coordination":1,
+            "Education":1,
+            "Perception":1,
+            "Reflexes":1,
+            "SangFroid":1
+        }
+    },
+
+    "Item":{
+        "types":["arme","armeblanche","protection","grenade","vehicule","budget","divers"],
+        "id":"",
+        "description":"",
+        "quantite":0
+    }
+}
