@@ -15,7 +15,19 @@
     "Item":{
         "types":["Arme","Arme blanche","Protection","Grenade","Vehicule","Budget","Divers"],
         "id":"",
+        "nom":"",
         "description":"",
-        "quantite":0
+        "quantite":0,
+        "Arme":{
+
+        },
+        "Arme blanche":{},
+        "Protection":{},
+        "Grenade":{},
+        "Vehicule":{},
+        "Budget":{},
+        "Divers":{
+            
+        }
     }
 }
