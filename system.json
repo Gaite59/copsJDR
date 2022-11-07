@@ -4,7 +4,7 @@
     "description":"Système de jeu pour COPS, le jeu de rôle",
     "version":"0.0.1",
     "minimumCoreVersion":"10.285",
-    "compatibleCoreVersion":"10.286",
+    "compatibleCoreVersion":"10.288",
     "author": "Gaite59",
     "esmodules":["module/cops.js"],
     "styles":["css/cops.css"],
