@@ -4,8 +4,8 @@
     "description":"Système de jeu pour COPS, le jeu de rôle",
     "version":"0.0.1",
     "compatibility": {
-        "minimum": "10.285",
-        "verified": "10.288"
+        "minimum": "10",
+        "verified": "10"
       },
     "authors": "Gaite59",
     "esmodules":["module/cops.js"],
