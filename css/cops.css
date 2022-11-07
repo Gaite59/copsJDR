@@ -1,5 +1,6 @@
-body {
-    background-color: #ffffff; 
-    font-family: 'Century Gothic', sans-serif; 
-    font-size: 100%;
-    }
+/* New Styles */
+.cops .window-content {
+    background: #faf5ed;
+    font-family: Century, sans-serif;
+    font-weight: 600;
+  }
