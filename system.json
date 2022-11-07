@@ -7,7 +7,11 @@
         "minimum": "10",
         "verified": "10.288"
       },
-    "authors": "Gaite59",
+    "authors": [
+        {
+            "name":"Gaite59"
+        }
+    ],
     "esmodules":["module/cops.js"],
     "styles":["css/cops.css"],
     "scripts":[],
