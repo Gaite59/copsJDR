@@ -4,7 +4,7 @@
     "description":"Système de jeu pour COPS, le jeu de rôle",
     "version":"0.0.1",
     "compatibility": {
-        "minimum": 10,
+        "minimum": "10.285",
         "verified": "10.288"
       },
     "authors": "Gaite59",
@@ -21,7 +21,7 @@
     ],
     "gridDistance":1,
     "gridUnits":"m",
-"url":"https://github.com/Gaite59/copsJDR",
-"manifest":"https://github.com/Gaite59/copsJDR/blob/Developer/system.json",
-"download":"https://github.com/Gaite59/copsJDR/archive/refs/heads/Developer.zip"
+    "url":"https://github.com/Gaite59/copsJDR",
+    "manifest":"https://github.com/Gaite59/copsJDR/blob/Developer/system.json",
+    "download":"https://github.com/Gaite59/copsJDR/archive/refs/heads/Developer.zip"
 }
